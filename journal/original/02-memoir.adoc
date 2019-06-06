@@ -1,4 +1,4 @@
-== Memoir of Rebecca Hubbs
+== The Life of Rebecca Hubbs
 
 It is encouraging, as well as instructive,
 to trace the blessed effects which result from a submission
@@ -59,6 +59,9 @@ but she wrote very little,
 and but few circumstances of her early years can now be collected.
 Her own narrative commences thus:
 
+[.small-break]
+'''
+
 "`Tenth month, 1812.
 "`Come and hear, all ye that fear God, and I will declare what He hath done for my soul.`"
 Ps. 66:16.
@@ -118,7 +121,7 @@ from the desire I felt to escape from these scenes of dissipation,
 and my sorrow for mingling in them.
 But I would wipe away my tears, and return to the diversion.
 
-Although I then knew not what it was that thus reproved me,
+"`Although I then knew not what it was that thus reproved me,
 I have since discovered that it was nothing short of Divine love
 and mercy that thus disquieted my mind in the pursuit of vanity.
 I mention these things for the good of other children,
@@ -126,6 +129,9 @@ to show how necessary it is for them not only to be sensible of, but to take hee
 the tender visitations of Divine mercy and love.
 A child trained in the way he should go,
 is greatly benefited thereby --such reflections have been lasting in my memory.`"
+
+[.small-break]
+'''
 
 It is to be regretted that the foregoing fragment
 is all that can now be found of her own account,
@@ -242,7 +248,7 @@ and was sitting alone in the carriage at a store-door,
 when a man looked into the front of the carriage, saying,
 "`I do not know what thy name is; but I must speak a little to thee.
 The Master has a work for thee to do, if thou art faithful to it.
-I want to tell thee not to plead as Gideon did, "`My family is poor in Manasseh,
+I want to tell thee not to plead as Gideon did, '`My family is poor in Manasseh,
 and I am the least in my father`'s house.`' This was Gideon`'s excuse;
 don`'t let it be thine.
 I want thee to be faithful--be obedient.`"
@@ -254,6 +260,9 @@ The individual, who thus unexpectedly spoke so suitably to her case,
 was that worthy minister, the late Arthur Howell, of Philadelphia,
 who had been attending the Quarterly Meeting of Salem.
 About this time, she had a remarkable dream, which she thus relates:
+
+[.small-break]
+'''
 
 "`I thought I was travelling on a road, and saw something at a distance, which,
 when I came up to it, I believed to be Death.
@@ -330,6 +339,9 @@ or to tell unto others that the Lord is good,
 of long suffering and tender mercy to poor sinners that they may return,
 repent and live.`"
 
+[.small-break]
+'''
+
 Her first appearance in the ministry was about 1803 or 1804,
 and the thirty-second year of her age.
 In 1806, her husband removed into the compass of Haddonfield Meeting,
@@ -348,6 +360,9 @@ declaration of war by our government against Great Britain;
 a contest which, during the period between 1812 and 1815,
 brought so much trouble and distress upon the United States,
 and caused great loss both of life and property:
+
+[.embedded-content-document.paper]
+--
 
 My soul is impressed with a sense of duty to God, which I dare not decline,
 and with no other motive but to discharge it, and to relieve my own mind,
@@ -399,7 +414,10 @@ How is thy gold become dim?
 The nations of the earth have heard thy shame, and the cry thereof hath filled the land;
 for the mighty men have stumbled and fallen against the mighty.
 
+[.signed-section-signature]
 Rebecca Hubbs.
+
+--
 
 In 1813,
 she was liberated to perform a religious visit to some of
@@ -427,6 +445,7 @@ while she was strengthened by the concurrence of her concern with
 that which had engaged the attention of a body whom she highly
 valued for the religious weight and experience of its members.
 
+[.offset]
 Writing on this subject, she says:
 
 "`I long went bowed down in mind, pleading in the secret of my heart, '`O holy Father,
@@ -464,7 +483,10 @@ After visiting some of the meetings in Virginia, way was made,
 through the kindness of our Friend, Micajah Crew, of Cedar Creek meeting in that State,
 to visit in person James Madison, then President of the United States.`"
 
-The President and his wife received them very kindly,
+[.small-break]
+'''
+
+The President [James Madison] and his wife received them very kindly,
 and they had a solid and satisfactory religious opportunity with them,
 in which they were much affected,
 and they parted with many tokens of affectionate regard.
@@ -485,6 +507,7 @@ near some of the places included in her prospect,
 but she was enabled to cast her care on the Lord,
 and to trust in that Arm which had hitherto been her support and help.
 
+[.offset]
 The following extracts from some memorandums made during the journey,
 may be interesting to the reader, viz.:
 
@@ -494,12 +517,12 @@ and a feeling sense of poverty and weakness,
 under which I rode with a heavy heart through the streets of Philadelphia;
 but after getting into the road that led to the westward,
 I was much revived by a renewal of faith,
-enabling me to believe that the great Shepherd had not forsaken me.`"
+enabling me to believe that the great Shepherd had not forsaken me.
 
 "`Seventh month, 19th. Attended a meeting at Fallowfield, appointed by Micajah Collins,
 in which I was bowed in supplication,
 under a particular exercise that the Lord would be pleased to strengthen
-and preserve those who had left all to follow Him.`"
+and preserve those who had left all to follow Him.
 
 "`Fifth-day, 21st. Went on to meeting at Lam peter,
 where we were favored to witness the owning of Truth to our comfort and satisfaction.
@@ -512,6 +535,9 @@ and the reasonings of their soul`'s enemy.
 Truth, I believe, reigned over all to the mutual comfort of the visitors and visited.
 All blessing and praise be ascribed unto Him, who is forever worthy.`"
 
+[.small-break]
+'''
+
 It is proper to notice here that Micajah Collins was also engaged in a religious visit,
 em bracing many of the meetings to which Rebecca`'s concern extended;
 and he proposed that they should proceed in company.
@@ -519,6 +545,9 @@ Rebecca was cautious about embracing the proposal, and deferred giving an answer
 but after solidly weighing it for a day or two,
 she thought it right to join him in visiting the meetings east of the Allegheny mountains,
 and they accordingly went on together.
+
+[.small-break]
+'''
 
 "`Second-day, 1st of eighth month.
 Set out early on our journey, and passed through Chambersburg, Campbell`'s, and London,
@@ -545,7 +574,7 @@ and awoke with the encouraging language passing through my mind,
 and clear thy path over the high mountains.`' It was truly comfortable to me,
 as an assurance of not being left by my gracious Master;
 and whether I am permitted to return to my family or not, I venture to pen it,
-and commit myself to Divine protection.`"
+and commit myself to Divine protection.
 
 "`Fifth-day, 11th of eighth month.
 Had a meeting at Westland, and soon after I took my seat,
@@ -556,7 +585,7 @@ which I was helped to do from these words which were presented to me,
 seeing that we must all stand before the judgment seat of Christ?`"
 Micajah Collins after wards took up the subject and had good service,
 and I believe the meeting ended well.
-After it was over, a Friend said to me, "`Some of us will have cause to remember thee.`'`"
+After it was over, a Friend said to me, "`Some of us will have cause to remember thee.`'
 
 "`First-day, the 14th. Attended Wheeling meeting, and soon after we sat down together,
 my mind`' was filled with an exercise something similar to
@@ -569,7 +598,7 @@ together in endeavoring to support the standard of Truth and righteousness,
 that when a time of searching came,
 there might be found in the city righteous ones for
 whose sakes the Lord would be pleased to spare it,
-and their own souls be saved with an everlasting salvation.`"
+and their own souls be saved with an everlasting salvation.
 
 "`Third-day, 16th. Came to St. Clairsville very much fatigued, and,
 as I sat in the Friend`'s house where we put up, I said in my heart,
@@ -581,7 +610,7 @@ Then the prayer arose in my soul, O my dear Redeemer,
 for whose sake I have been made willing to leave all and
 to bear all that may be permitted to come upon me,
 suffer me not, I pray thee, to murmur or repine,
-but grant me ability to perform all thy will.`"
+but grant me ability to perform all thy will.
 
 "`Fifth-day, 18th. Attended Short Creek meeting where was a large gathering,
 and feeling an impression to bow in reverence and supplicate the Divine Goodness,
@@ -596,7 +625,7 @@ that the people were on their feet at the time,
 or much more injury would probably have been done, and the woman who was hurt,
 said that if she had not been standing up, she thought she should have been killed.
 Marvellous it was that no one was killed or hurt worse,
-for which mercy I was truly thankful.`"
+for which mercy I was truly thankful.
 
 "`First-day,
 21st. There not being room in the meeting-house to
@@ -618,7 +647,7 @@ whereby I was enabled to relieve my mind.
 The great Head of the church was pleased to own the assembly with his living presence,
 to the refreshing of many minds,
 and the tribute of praise and thanksgiving was offered
-up from many hearts to Him who is forever worthy.`"
+up from many hearts to Him who is forever worthy.
 
 "`Third-day, 3rd of eighth month.
 Attended Stillwater meeting where was also our friend, Charity Cook.
@@ -645,7 +674,7 @@ Just as the meeting broke up, a burial company came into the grave-yard,
 and I accompanied the mourners to the grave-side,
 where I had to hold out an invitation to the company to know Christ formed in them,
 and his kingdom exalted there, by the power of his Spirit,
-that so we might be prepared for a glorious and happy resurrection.`"
+that so we might be prepared for a glorious and happy resurrection.
 
 "`Ninth month, 2nd. While travelling on the road about the middle of the afternoon,
 a covering of awfulness spread over my mind,
@@ -713,7 +742,7 @@ and the crooked paths straight--for the coming of the kingdom of heaven.
 "`We left New Lancaster feeling the reward of sweet peace,
 and some tears of rejoicing fell from my eyes as I rode on my way,
 in contemplating the many favors and mercies I have
-received from the bountiful hand of Israel`'s God.`"
+received from the bountiful hand of Israel`'s God.
 
 "`6th of Ninth month.
 Attended Walnut Creek meeting, where I had much labor with, and deep feeling for,
@@ -724,7 +753,7 @@ and something seemed to be always following her,
 trying to induce her to take her own life, It was very distressing to my feelings;
 but I gave her the best advice that was afforded me at the time,
 and in my heart committed her to the great Caretaker, even Jesus of Nazareth,
-the Physician of value.`"
+the Physician of value.
 
 "`8th. Went to Lee`'s Creek meeting in company with Mildred Ratcliff.
 When I first sat down I thought nothing could be done here, nor any good witnessed,
@@ -732,7 +761,7 @@ for the noise of the little children.
 I counted thirteen small children dandling upon the lap, and two walking about the floor.
 But He who can still the waves, even of the troubled Ocean,
 was pleased to give us a time of stillness,
-and we had a favored meeting and thought ourselves amply repaid for coming here.`"
+and we had a favored meeting and thought ourselves amply repaid for coming here.
 
 "`9th. Rode between twenty and thirty miles over a very rough road,
 and being much fatigued, and in a wilderness country,
@@ -742,6 +771,9 @@ Alas! it was presumptuous, and I suffered very much for it in the night,
 but after heartfelt repentance I found forgiveness;
 yet for these few words I suffered more than I remember to have done in a long time,
 either for word or deed.`"
+
+[.small-break]
+'''
 
 They now came into a part of the country where a
 disease called the cold plague was prevailing,
@@ -770,6 +802,9 @@ committing themselves to the protecting care of Him
 in whose hand are the issues from death.
 She writes under date of Ninth month 13th.
 
+[.small-break]
+'''
+
 "`Passed through Urbanna, and came to the house of P. H.,
 who honestly told us his house was full already, and they had several sick.
 On asking him where we could go, he said there was a house about a mile further on;
@@ -788,7 +823,7 @@ and although it was small by reason of the sickness in the neighborhood,
 yet it was satisfactory.
 
 "`18th. Attended Derby Creek meeting, where I experienced much close labor and exercise,
-but at length was set free and felt clear.`"
+but at length was set free and felt clear.
 
 "`19th. Was at Mad River meeting,
 where my soul sang praises to the Lord for the many favors and mercies I have received,
@@ -809,21 +844,18 @@ for we could hear the barking of the wolves around us, as we sat in the house,
 and there was sickness in the family, so that we were much discouraged,
 and I repeated to myself Cowper`'s touching lines:
 
+[verse]
+____
 "`When I think of my own native land,
-
 In a moment I seem to be there,
-
 But, alas! recollection at hand
-
 Soon hurries me back to despair.
 
 There is mercy in every place,
-
 And mercy--encouraging thought--
-
 Gives even affliction a grace,
-
 And reconciles man to his lot.`"
+____
 
 "`Although the scene around us seemed gloomy in one sense,
 the inhabitants inclosed by the wilderness which makes the place seem solitary,
@@ -834,37 +866,37 @@ and the hostile Indians near their borders,
 yet even here is a place of repose for the mind when centred on the Lord,
 and in sweet meditation I felt a joy and divine harmony,
 and living praises to Israel`'s God, while a lively spring of faith arose,
-whereby I was enabled to put my trust in the Lord.`"
+whereby I was enabled to put my trust in the Lord.
 
 "`22nd. Was at Embree`'s meeting.
 It rained very hard,
 but we were favored to witness the living presence of Him whom we seek,
 and a woman of another religious society, who was there,
 said she would be willing to go every day through the mud
-and rain for the sake of being at such a meeting.`"
+and rain for the sake of being at such a meeting.
 
 "`23rd. Attended Cesar`'s Creek meeting, where much exercise was felt and labor bestowed,
 and it appeared as if the battle went on the King`'s side,
 until there was not a foe left.
 After meeting, went to the house of our friend, Charity Cook,
-with whom and her husband and children we had an agreeable time.`"
+with whom and her husband and children we had an agreeable time.
 
 "`26th. Was at the meeting at Waynesville, which was large and satisfactory;
-favored with the cementing love of God which reigned over death and darkness.`"
+favored with the cementing love of God which reigned over death and darkness.
 
 "`Sixth-day, 7th of Tenth month.
 Went to Centre meeting, which was large, and, I was told by others, satisfactory.
 When I first took my seat, I was deeply sensible of weakness and poverty,
 but soon was brought under exercise and into public labor,
 having to stand up with but a very small spring of Divine life, but, as I went on,
-witnessed an increase of strength and life, to the relief and peace of my own mind.`"
+witnessed an increase of strength and life, to the relief and peace of my own mind.
 
 "`14th of Tenth month.
 Having attended the last meeting that I had a prospect of visiting in these parts,
 I was made thankful in having a sweet evidence given me that my
 labors were accepted by Him who regardeth the little ones;
 and taking leave of the Friends who accompanied us,
-with an appearance of heartfelt affection, we set out for Chillicothe.`"
+with an appearance of heartfelt affection, we set out for Chillicothe.
 
 "`First-day, 16th of Tenth month.
 It appeared right for us to have a public meeting at Chillicothe,
@@ -885,6 +917,9 @@ and sat with solid countenances,
 and I could but adore the universal love and mercy of God to all souls,
 who graciously makes himself known in the hearts of all,
 though many come short in obedience.`"
+
+[.small-break]
+'''
 
 After this meeting, in consequence of a pressing invitation,
 they went to the house of a General, then absent from home, in the American army.
@@ -947,6 +982,9 @@ From Chillicothe they turned their faces home ward,
 and on the 1st of eleventh month were at Marlborough meeting in Ohio,
 of which she remarks:
 
+[.small-break]
+'''
+
 "`I felt much exercise of mind in this meeting,
 that Friends might be clothed with the meek, humble spirit of Jesus,
 whose love to the returning repenting sinner is so great that He
@@ -956,8 +994,14 @@ My mind obtained relief from its exercise,
 and although I felt cold and barren on first sitting down in the meeting,
 yet I believed it was a favored season and ended well.`"
 
+[.small-break]
+'''
+
 In the evening she had a religious opportunity at a Friend`'s house,
 where a number of young people were collected, of which she says:
+
+[.small-break]
+'''
 
 "`In looking over the dear young people present,
 I had to recur to the many days I had spent in vanity during my youth,
@@ -1013,12 +1057,18 @@ their ambition and avarice, how mournful is it;
 and alas! what is still more awful to contemplate,
 is the case of the poor soul that is thus hurried out of time on the field of battle.`"
 
+[.small-break]
+'''
+
 Writing of their journey across the mountains,
 she remarks on the difficulty they had in procuring food for themselves and horses,
 in consequence of a company of soldiers having marched
 from Pittsburg for Baltimore a few days before,
 and being but a little way before them,
 had consumed all the food that could readily be obtained.
+
+[.small-break]
+'''
 
 "`About one o`'clock we came to a large brick house,
 where we stopped and endeavored to get some breakfast,
@@ -1038,11 +1088,11 @@ and seemed to pity us, and said, '`Walk in, madam;
 you shall not go away without your breakfast.`' Then, turning to the landlord, he said,
 '`Give them their breakfasts; you can do it well enough.`' We went in,
 but the women said they were so fatigued they were hardly able to do anything;
-yet would try, and they did give us an excellent meal.`"
+yet would try, and they did give us an excellent meal.
 
 "`Seventh-day, 26th. Resumed our journey early,
 and passed through Stoystown before the volunteers were ready to march,
-and now being foremost, we could get our meals in season.`"
+and now being foremost, we could get our meals in season.
 
 "`Third-day, 6th of Twelfth month.
 Went to Sadsbury meeting,
@@ -1051,6 +1101,9 @@ and the publican going up to the temple to pray.
 Many living desires were felt for the spiritual welfare of the assembly,
 and I joined in offering up the tribute of praise
 and thanksgiving to Him who is worthy forevermore.`"
+
+[.small-break]
+'''
 
 From this place they proceeded home, where she was favored to arrive in peace and safety,
 enjoying a precious reward for her dedication and faithfulness
@@ -1074,8 +1127,13 @@ whom she had met with at Chillicothe, Ohio,
 and for whose religious welfare she had felt much concerned.
 It is as follows, viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Chillicothe, January 6th, 1816.
 
+[.salutation]
 Respected Friend,
 
 You will no doubt be surprised when you receive this letter;
@@ -1109,17 +1167,28 @@ May peace, productive of plenty, long bless our happy land; and may you, my frie
 live to glorify your Creator through the latter periods of your life,
 and finally enjoy everlasting glory, through a Redeemer.
 
+[.signed-section-closing]
 Permit me to subscribe myself your grateful friend,
 
+[.signed-section-signature]
 A+++.+++ C. L.
 
+[.signed-section-context-close]
 Cincinnati, Ohio
 
+--
+
+[.offset]
 To this letter Rebecca Hubbs returned an answer, only a part of which has been preserved,
 viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Woodstown, Second month, 14th, 1816.
 
+[.salutation]
 Respected Friend,
 
 I received thy letter, dated First month, 6th,
@@ -1191,7 +1260,9 @@ I find it needful to be daily on the watch-tower,
 lest worldly cares and the concerns of time and sense beguile me of that reward
 which is in store for the righteous--for those that are laboring above every
 other consideration to be redeemed from the bondage and the influence of corruption,
-so as to escape the pollutions of this world, and in the end receive a crown immortal.`"
+so as to escape the pollutions of this world, and in the end receive a crown immortal.
+
+--
 
 This devoted and faithful servant was frequently engaged in travelling abroad,
 visiting the meetings of Friends,
@@ -1277,9 +1348,14 @@ of her removal without being affected to tears,
 yet, in the full persuasion that her own loss was her friend`'s everlasting gain,
 she was enabled to bow in submission to the will of Him who doeth all things well.
 
+[.offset]
 The following letter to Sarah Scull, though without date,
 will be interesting to the reader, viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 Often, very often, has my mind been turned towards thee,
@@ -1307,18 +1383,24 @@ or at the bot tom of the mountains, where the weeds are wrapped about my head.
 But I desire to be silent and adore, yet at times am aroused to serious reflection,
 where "`will this conflict be tween heaven and earth land me?
 
-'`My heart the wise pursuit approves,
-
+[verse]
+____
+"`My heart the wise pursuit approves,
 But, oh! what toils oppose!`"
+____
 
 Dear Friend, when it fares well with thee, remember me,
 and speak favorably for me to the King,
 that He bring me out of prison in what ever way He sees meet,
 whereby my soul may be preserved in safety, in the arms of tender mercy and Divine love.
 
+[.signed-section-closing]
 Thine affectionately,
 
+[.signed-section-signature]
 Rebecca Hubbs.
+
+--
 
 Although her husband`'s means were small,
 and the charge of a large family and other circumstances
@@ -1506,6 +1588,7 @@ We had the unity of our Monthly Meeting, and were favored with health while abse
 After visiting nearly all the remaining meetings of the three Quarterly Meetings,
 I returned home, and had great peace and satisfaction.`"
 
+[.offset]
 Besides the above brief notice, she has left some memorandums of this second visit,
 of which the following are a part, viz.:
 
@@ -1601,6 +1684,7 @@ purifying our hearts,
 and converting us from a state of nature to a state of grace.`'
 We parted from each other with tender regard.`"
 
+[.offset]
 After attending meetings at Fallowfield and Columbia,
 she had an appointed meeting at Lan caster, of which she writes:
 
@@ -1641,8 +1725,11 @@ Rode to Lampeter meeting, where my companion bore a short but good testimony,
 and I had a little to add from the words:
 '`It is better to go to the house of mourning than to go to the house of feasting.`'`"
 
+[.offset]
 After being at Bart meeting, they attended the Monthly Meeting at Sadsbury,
-of which Rebecca writes: "`There being many of the elderly part of the Society there,
+of which Rebecca writes:
+
+"`There being many of the elderly part of the Society there,
 I felt cautious of taking up the time, or intruding upon them,
 and mentioned that my heart`'s desire and prayer to God was,
 that the aged ones who had known the Lord to be their morning light,
@@ -1789,6 +1876,9 @@ Afternoon, had a meeting at Chester,
 and my companions and I concluded that we had the best wine at the last.
 Friends from several meetings came to be with us, and it proved a time of favor.`"
 
+[.small-break]
+'''
+
 They returned home from this place,
 and in returning her certificate to her Monthly Meeting,
 she said she had been enabled to perform the duty to the peace of her own mind.
@@ -1799,15 +1889,24 @@ and appointing meetings among Friends and others on the way, going and returning
 a service which she was strengthened to accomplish to good satisfaction.
 Respecting one of the meetings she was at during this journey, she says:
 
+[.small-break]
+'''
+
 "`Here I was led to hold up the convincing and converting power of Truth on the mind,
 to lead man out of darkness into the marvellous light of the Lord,
 concluding the meeting with solemn supplication for the remnant in this place,
 whose zeal has led them to build a new meeting-house.`"
 
+[.small-break]
+'''
+
 She also visited Friends and others residing at Great and Little egg Harbor in 1835,
 and in 1837 was liberated to attend the Yearly Meetings
 of New York and New England and meetings on the way.
 Of this journey she says:
+
+[.small-break]
+'''
 
 "`Fifth month, 24th, 1837.
 Left home under heavy discouragements, and as I rode on my way,
@@ -1891,6 +1990,7 @@ She said she was glad to hear it.
 which was that whenever I was at a loss in such cases,
 it was safest to keep to first openings, and I have often had to think of it since.`'`"
 
+[.offset]
 From New York they went into New England, to attend that Yearly Meeting.
 Respecting a meeting at Coventry, Rhode Island, she says:
 
@@ -1979,6 +2079,9 @@ and thought I had never before seen so large an assembly.
 In the afternoon, we had a favored meeting,
 in which several Friends were engaged in the ministry.`"
 
+[.small-break]
+'''
+
 No further memorandums of this visit appear to have been made.
 Soon after the Yearly Meeting closed, she and her companions returned home,
 and in returning her minute to the fol lowing Monthly Meeting,
@@ -1994,6 +2097,9 @@ and appoint some for those not in profession with Friends.
 She was absent from home on this journey about three months.
 The memorandums respecting it are very few and short.
 We extract the following, viz.:
+
+[.small-break]
+'''
 
 "`On the 14th of eighth month, 1839, in much love and tenderness,
 I took leave of my husband and family and went to our Select Quarterly Meeting,
@@ -2037,6 +2143,7 @@ even to this day.
 who with his family were left very much alone at the time of the separation.
 I thought our little company was owned by the presence of our dear Redeemer.`"
 
+[.offset]
 In crossing the mountains, she makes these reflections:
 
 "`Oh, these lofty rocks and mountains, towering one above another,
@@ -2096,8 +2203,14 @@ and oh! the sweet peace that accompanied my mind as I rode on my way,
 making melody in my heart unto the Lord,
 though great had been my baptism before I yielded to this required duty.`"
 
+[.small-break]
+'''
+
 Having reached Mount Pleasant, they attended the Yearly Meeting of Ohio.
-On Second-day, being at the Boarding-school with upwards of one hundred Friends, she says;
+On Second-day, being at the Boarding-school with upwards of one hundred Friends, she says:
+
+[.small-break]
+'''
 
 "`All present were collected, and we had a favored, interesting meeting.
 Daniel Wheeler and Jacob Green and other ministers were present,
@@ -2129,6 +2242,7 @@ and craved that the same Divine power which had attended him hitherto,
 might still be continued, grant him a safe arrival on his native shores,
 and when done with time, the enjoyment of ever lasting glory through our holy Redeemer.`"
 
+[.offset]
 They left Mount Pleasant after the Yearly Meeting, and proceeded towards Indiana,
 taking meetings on the way.
 She writes:
@@ -2168,6 +2282,7 @@ be given to our blessed and compassionate Redeemer.
 After meeting, the people were kind and respectful, inviting us to stay with them,
 but we excused ourselves.`"
 
+[.offset]
 They reached Richmond, Indiana, in time for the Yearly Meeting, which they attended,
 and soon after it was over, turned their faces home ward.
 She writes:
@@ -2227,6 +2342,7 @@ with me then are now gone from works to rewards,
 and I am spared a little longer.
 May I be prepared to go.`"
 
+[.offset]
 They proceeded directly home, without stop ping at any meeting.
 
 In Ninth month, 1841,
@@ -2261,6 +2377,9 @@ This was her last journey in the work of the ministry,
 and she spoke of it afterwards as "`the evening sacrifice,`" the retrospect of which,
 though deeply sensible she was indeed an unprofitable servant, afforded her much peace.
 She makes the following memorandums respecting it, viz.:
+
+[.small-break]
+'''
 
 "`Fourth month 20th, 1844.
 Set out with my companion, Mary Carpenter, from Philadelphia,
@@ -2299,7 +2418,8 @@ to some places hereaway, and went with us to James Madison,
 then the President of the United States.
 I was glad to see him once more, and after a favored religious opportunity in his family,
 we parted in much Christian love.
-- "`First-day.
+
+"`First-day.
 At Richmond meeting, where I was reminded of the Scripture declaration,
 '`There is a spirit in man,
 and the inspiration of the Almighty giveth them understanding.`'
@@ -2356,7 +2476,7 @@ I felt much for Friends here in their lonely situation, there being so few left.
 "`First-day.
 At Piney Woods Particular Meeting, where was a large gathering,
 most of them standing around the house, waiting for us, which seems to be the practice.
-I was engaged in sup plication, and afterwards, in much weakness, arose before them all,
+I was engaged in supplication, and afterwards, in much weakness, arose before them all,
 with the saying of the apostle, '`The Jews require a sign,
 and the Greeks seek after wisdom, but we preach Christ crucified,
 unto the Jews a stumbling-block,
@@ -2420,6 +2540,9 @@ The people were very attentive, and behaved solidly.
 Attended the Quarterly Select Meeting at Summerton,
 and in the afternoon the General Quarterly Meeting.`"
 
+[.small-break]
+'''
+
 No further memorandums of this journey have come to hand.
 She was favored to reach home in safety,
 and returned her minute with the acknowledgment that the
@@ -2463,4 +2586,5 @@ quietly departing on the morning of the 29th of Tenth month, 1852,
 in the 80th year of her age, and, we doubt not,
 is entered into the rest prepared for the righteous.
 
+[.the-end]
 The End
